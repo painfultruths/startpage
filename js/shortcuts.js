@@ -1,21 +1,21 @@
 export default [
   {
-    category: "Dev",
+    category: "News",
     color: "cyan",
     items: {
-      Github: "https://github.com",
-      AWS: "https://aws.amazon.com",
-      "Dev.to": "https://dev.to",
-      Firebase: "https://console.firebase.google.com/u/0",
+      "New York Times": "https://nytimes.com",
+      "Washington Post": "https://washingtonpost.com",
+      "Wall Street Journal": "https://wsj.com",
+      Reddit: "https://reddit.com/r/all",
     },
   },
   {
-    category: "School",
+    category: "Social",
     color: "red",
     items: {
-      Outlook: "https://outlook.office365.com/mail/inbox",
-      Canvas: "https://sit.instructure.com",
-      MyStevens: "https://login.stevens.edu/app/UserHome",
+      YouTube: "https://youtube.com/",
+      Instagram: "https://instagram.com",
+      LinkedIn: "https://linkedin.com",
     },
   },
   {
