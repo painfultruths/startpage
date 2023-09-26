@@ -33,7 +33,7 @@ export default {
           <p>If no options are provided, the current weather forecast will be displayed</p>
           <p>Options:</p>
           <p>key : obtain a key from <a class="shortcut" href="https://openweathermap.org">https://openweathermap.org</a></p>
-          <p>loc : comma-separated list of city name, state code (omit if outside the US), and ISO-3166 country code</p>
+          <p>loc : <zipcode>,<Country Code> </p>
            `;
     if (!options || options.length === 0) {
       return getWeather();
