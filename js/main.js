@@ -41,5 +41,4 @@ window.addEventListener("load", () => {
   executors.motd();
   let filenames = ["GradientTestBlue.png"];
   let root = document.getElementsByTagName("html")[0];
-  
 });
