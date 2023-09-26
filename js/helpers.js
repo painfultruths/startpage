@@ -41,7 +41,7 @@ const getWeather = () => {
     }
   }
   fetch(
-    `https://api.openweathermap.org/geo/1.0/direct?q=${loc}&appid=${WEATHER_API_KEY}`,
+    `https://api.openweathermap.org/geo/1.0/zip?zip=${loc}&appid=${WEATHER_API_KEY}`,
   )
     .then((geoRes) => geoRes.json())
     .then((geoData) => {
