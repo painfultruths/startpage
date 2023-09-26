@@ -144,3 +144,6 @@ body {
   border: none;
   color: inherit;
 }
+element {
+  background-color: var(--bg);
+}
