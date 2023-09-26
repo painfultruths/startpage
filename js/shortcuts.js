@@ -50,7 +50,6 @@ export default [
       tautulli: "http://10.0.0.52:8181/home",
       docker: "https://10.0.0.52:9443/#!/2/docker/containers",
       overseer: "https://bridgefour.uk",
-      
     },
   },
 ];
