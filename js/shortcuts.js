@@ -7,16 +7,19 @@ export default [
       wapo: "https://washingtonpost.com",
       wsj: "https://wsj.com",
       reddit: "https://reddit.com/r/all",
+      kagi: "https://kagi.com/",
     },
   },
   {
     category: "Social",
     color: "red",
     items: {
+      gml: "https://mail.google.com/",
       yt: "https://youtube.com/",
       ig: "https://instagram.com",
       li: "https://linkedin.com",
       twi: "https://twitter.com",
+      irc: "http://10.0.0.52:9001/",
     },
   },
   {
@@ -29,6 +32,7 @@ export default [
       fid: "https://oltx.fidelity.com/ftgw/fbc/oftop/portfolio#summary",
       emp: "https://participant.empower-retirement.com/participant/#/login",
       citi: "https://www.citi.com/login",
+      mstar: "https://www.morningstar.com/",
     },
   },
   {
@@ -36,7 +40,7 @@ export default [
     color: "purple",
     items: {
       ruTorrent: "http://10.0.0.52:8081/",
-      calibre_web: "http://10.0.0.52:8083/",
+      calibre_w: "http://10.0.0.52:8083/",
       calibre: "http://10.0.0.52:8084/",
       readarr: "http://10.0.0.52:8787/",
       radarr: "http://10.0.0.52:7878/",
@@ -46,6 +50,7 @@ export default [
       tautulli: "http://10.0.0.52:8181/home",
       docker: "https://10.0.0.52:9443/#!/2/docker/containers",
       overseer: "https://bridgefour.uk",
+      
 
       // IPTorrents: "https://iptorrents.com/t",
     },
