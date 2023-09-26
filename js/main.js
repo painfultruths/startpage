@@ -41,9 +41,7 @@ window.addEventListener("load", () => {
   executors.motd();
   let filenames = ["GradientTestBlue.png"];
   let root = document.getElementsByTagName("html")[0];
-  root.style.backgroundImage = `url("./backgrounds/${
-    filenames[Math.floor(Math.random() * filenames.length)]
-  }")`;
+  root.style.backgroundImage = `none`;
   root.style.backgroundSize = "cover";
   root.style.backgroundPosition = "center";
 });
