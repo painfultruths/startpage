@@ -7,7 +7,7 @@ export default [
       wapo: "https://washingtonpost.com",
       wsj: "https://wsj.com",
       reddit: "https://reddit.com/r/all",
-      kagi2: "https://kagi.com/",
+      kagi: "https://kagi.com/",
     },
   },
   {
