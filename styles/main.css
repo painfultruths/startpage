@@ -55,7 +55,6 @@ body {
 }
 
 .shortcuts:first-child {
-  font-weight: 900;
 }
 
 .shortcut {
@@ -102,38 +101,47 @@ body {
 
 .green {
   color: var(--green);
+  font-weight: 900;
 }
 
 .cyan {
   color: var(--cyan);
+  font-weight: 900;
 }
 
 .purple {
   color: var(--purple);
+  font-weight: 900;
 }
 
 .red {
   color: var(--red);
+  font-weight: 900;
 }
 
 .yellow {
   color: var(--yellow);
+  font-weight: 900;
 }
 
 .blue {
   color: var(--blue);
+  font-weight: 900;
 }
 
 .light-gray {
   color: var(--light-gray);
+  font-weight: 900;
 }
 
 .gray {
   color: var(--gray);
+  font-weight: 900;
 }
 
 .black {
   color: var(--black);
+  font-weight: 900;
 }
 
 #input {
