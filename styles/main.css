@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Hack";
-  src: local("Hack Regular"), url("ttf/Hack-Regular.ttf");
+  font-family: "Fixedsys Excelsior";
+  src: local("Fixedsys Excelsior"), url("ttf/FSEX302.ttf");
 }
 
 :root {
