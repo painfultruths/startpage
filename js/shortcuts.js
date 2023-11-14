@@ -27,7 +27,8 @@ export default [
     color: "green",
     items: {
       fin: "https://docs.google.com/spreadsheets/d/1T6EA-emeI0X3cjt0ahXD6BUWsGXk9S6N9_yqJ7kmW1w/edit#gid=0",
-      tiller: "https://docs.google.com/spreadsheets/d/1uY3YTYBq5sDLn0XHy729njEjHsk5zO0VaY_DXXn-Cq4/edit",
+      tiller:
+        "https://docs.google.com/spreadsheets/d/1uY3YTYBq5sDLn0XHy729njEjHsk5zO0VaY_DXXn-Cq4/edit",
       rent: "https://property.onesite.realpage.com/welcomehome/home/login?siteId=2260960&CID=PAYMENTS-EMAIL&utm_source=Payments&utm_medium=email&utm_campaign=payments-email-CRR&utm_content=Encourage-electronic-payment#url=%23dashboard",
       wf: "https://wellsfargo.com",
       fid: "https://oltx.fidelity.com/ftgw/fbc/oftop/portfolio#summary",
